@@ -1,4 +1,4 @@
-### Bem vindo ao meu perfil eu sou o André Soares Seixas! 👋🏿
+### Olá eu sou o André Soares Seixas seja bem vindo ao meu perfil 👋🏿
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-soares-seixas-624782325/)
